@@ -1,2 +1,2 @@
 # pomodoro_chrome_extension
-small pomodoro chrome extension
+Simple pomodoro timer for chrome OS browser. 

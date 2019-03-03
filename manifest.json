@@ -3,7 +3,11 @@
         "name": "Pomodoro Chrome Extension",
         "version": "1.0",
         "description": "Pomodoro extension for chrome browser",
-        "manifest_version": 2
+        "manifest_version": 2,
+        "timer": {
+            "scripts": ["timer.js"],
+            "persistent": false
+          }
 }
     
 
